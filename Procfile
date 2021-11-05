@@ -1,0 +1,1 @@
+web: python3 Telegram_bot.py
